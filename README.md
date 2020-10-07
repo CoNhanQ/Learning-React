@@ -14,4 +14,13 @@
 
 
 
-### Third: Node.Js 
+### Third: Node.Js
+
+
+
+### Forth: NPM
+
+npm init -y // install Package.json
+npm install lodash // install lodash
+npm install normalize.css // install normalize
+npm install // install all dependencies in Package.json
