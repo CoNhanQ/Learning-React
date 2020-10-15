@@ -12,7 +12,18 @@
 
 ### Travel site project
 
-
+### React-Complex-app-project
+Learn React from scratch.
+The goal for this project is to learn basic react components and its use.
+This project focus on building clone social media web page.
+The software used in this project is :
+React
+Javascript
+MongoDB
+NodeJS
+webpack
+HTML
+CSS  
 
 ### Learn Node.Js
 
